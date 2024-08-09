@@ -1,6 +1,5 @@
 module T6Circle
-
-
+    # Text added
     using RandomWalk
     using ContinuousTimeMarkovChain
     using ProbabilityKillZone
