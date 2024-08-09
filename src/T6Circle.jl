@@ -1,6 +1,6 @@
 module T6Circle
 
-    using Revise
+
     using RandomWalk
     using ContinuousTimeMarkovChain
     using ProbabilityKillZone
