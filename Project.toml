@@ -3,6 +3,21 @@ uuid = "a3b715ff-a597-4883-8ee3-2404b010e3ec"
 authors = ["Jonathan Miller jonathan.miller@fieldofnodes.com"]
 version = "1.0.0-DEV"
 
+[deps]
+Colors = "5ae59095-9a9b-59fe-a467-6f913c188581"
+ContinuousTimeMarkovChain = "94d238af-ece3-4ea5-9f12-9f735918d5a2"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Geometries = "376103b7-462c-4dcb-a533-f8e48fa117d8"
+HypoExponential = "b6877333-6ca3-46b9-a561-407dc58c00e4"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+NumericalAnalysisUtils = "672ae402-f28c-46d7-88ec-e0fa647676b4"
+ProbabilityKillZone = "44a0b8fc-174c-456e-a088-0a54935ef13d"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+RandomWalk = "53be4d88-e596-4e22-a109-faee6f30e8a3"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+
 [compat]
 julia = "1.6.7"
 
