@@ -19,6 +19,7 @@ RandomWalk = "53be4d88-e596-4e22-a109-faee6f30e8a3"
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 
 [compat]
+JLD2 = "0.5"
 julia = "1.6.7"
 
 [extras]
